@@ -66,7 +66,7 @@ const App = () => {
            />            
           </Route>
           <Route exact patch="/checkout">
-            <Checkout />
+            <Checkout cart={cart}/>
           </Route>
         </Switch>
        </div>
