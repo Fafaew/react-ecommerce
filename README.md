@@ -38,7 +38,7 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-* Clone _'react-dashboard'_ repository from GitHub
+* Clone _'rearct-ecommerce'_ repository from GitHub
 
   ```bash
   git clone https://github.com/Fafaew/react-ecommerce.git
